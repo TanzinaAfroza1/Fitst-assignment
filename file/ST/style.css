@@ -5,8 +5,60 @@ font-family: 'Uchen', serif;
 #container{
     background-color: ghostwhite;
 }
-.subscribe{
-    background-color: aqua;
+#nav-image img{
+    width: 150px;
+    height: 75px;
+}
+
+.navbar-nav{
+    margin-left: 200px;
+}
+#button:hover{
+    background-color: rgb(199, 46, 77);
+    margin-left: 50;
     
 }
+.course-div{
+ font-size: 20px;
+}
+.image-blog img{
+    width: 550px;
+    height: 500px;
+}
+.modal-section{
+    background-color: rgb(240, 73, 106);
+}
+
+#carousel-caption{
+    
+    color: black;
+    border-radius: 15px;
+}
+
+.meet-our{
+    font-size: 50px;
+}
+.active img{
+    opacity: 0.5;
+}
+#designer {
+    border-radius: 10px;
+   
+}
+#designer img{
+    border-radius: 10px 10px 0px 0px;
+}
+.improve-them{
+    border: none;
+}
+.designer img {
+    width: 300px;
+    height:184px;
+    border-radius: 10px;
+}
+#students-take{
+    background-color: rgb(228, 65, 98);
+
+}
+
 
